@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente como estagiário full stack
 - 👨‍🎓 Formado em curso técnico em desenvolvimetno web
-- 🤓 Graducando em Análise e desenvolvimento de sistemas
+- 🤓 Graduando em Análise e desenvolvimento de sistemas
 - 📚 Atualmente estudando Laravel e React
 
 <div align="center">
